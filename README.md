@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @piyushdubey
 - 👀 I’m interested in distributed algorithms, cloud computing, and data science
 - 🌱 I’m currently learning Spark, NumPy, Jupyter.
-- 💞️ I’m looking to collaborate on anything related to maps.
+- 💞️ I’m looking to find a co-founder.
 - 📫 Reach out on Twitter - @piyushdubey_
 
 <!---
